@@ -1,0 +1,25 @@
+{
+  "branches": {
+    "coverage": "-",
+    "missed": 0,
+    "total": 0
+  },
+  "functions": {
+    "coverage": "78.16%",
+    "missed": 1548,
+    "total": 7087
+  },
+  "generated_at": "2026-11-16T13:25:09Z",
+  "lines": {
+    "coverage": "80.72%",
+    "missed": 11479,
+    "total": 59551
+  },
+  "package": "workspace",
+  "regions": {
+    "coverage": "77.32%",
+    "missed": 14097,
+    "total": 62165
+  },
+  "run_url": "https://github.com/moses-y/AgentENV/actions/runs/43863454121"
+}
