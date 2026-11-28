@@ -5,21 +5,21 @@
     "total": 0
   },
   "functions": {
-    "coverage": "78.23%",
-    "missed": 1558,
-    "total": 7158
+    "coverage": "78.30%",
+    "missed": 1552,
+    "total": 7153
   },
-  "generated_at": "2026-11-26T09:50:51Z",
+  "generated_at": "2026-11-27T17:56:58Z",
   "lines": {
-    "coverage": "80.83%",
-    "missed": 11565,
-    "total": 60313
+    "coverage": "80.82%",
+    "missed": 11570,
+    "total": 60331
   },
   "package": "workspace",
   "regions": {
     "coverage": "77.38%",
-    "missed": 14259,
-    "total": 63043
+    "missed": 14266,
+    "total": 63064
   },
-  "run_url": "https://github.com/moses-y/AgentENV/actions/runs/45775061621"
+  "run_url": "https://github.com/moses-y/AgentENV/actions/runs/45977594554"
 }
